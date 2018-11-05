@@ -1,5 +1,5 @@
 # Microbit_PN532
-Simple PN532 NFC reader library for Micro:bit
+Simple PN532 NFC reader library for Micro:bit. 
 Based on https://github.com/otlich/pn532
 
 # Installation
