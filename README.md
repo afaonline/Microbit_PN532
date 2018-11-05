@@ -15,4 +15,4 @@ SCL|SCL (19)
 VCC|3.3V
 GND|GND
 
-Please note that PN532 will most likely not work when Micro:bit is powered by two AAA batteries. PN532 requires at least 3.3 volts so two batteries is not enough. Use micro USB to power your project.
+Please note that PN532 will most likely not work when Micro:bit is powered by two AAA batteries. PN532 requires at least 3.3 volts so two batteries are not enough. Use Micro-USB or other external source to power your project.
